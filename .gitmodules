@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PrettyCols"]
+	path = PrettyCols
+	url = https://github.com/nrennie/prettycols
+	shallow = true
+	registered = true
