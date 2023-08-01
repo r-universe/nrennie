@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ggflowchart"]
-	path = ggflowchart
-	url = https://github.com/nrennie/ggflowchart
 [submodule "PrettyCols"]
 	path = PrettyCols
 	url = https://github.com/nrennie/prettycols
+[submodule "ggflowchart"]
+	path = ggflowchart
+	url = https://github.com/nrennie/ggflowchart
