@@ -5,6 +5,9 @@
 [submodule "PrettyCols"]
 	path = PrettyCols
 	url = https://github.com/nrennie/prettycols
+[submodule "RSSthemes"]
+	path = RSSthemes
+	url = https://github.com/nrennie/rssthemes
 [submodule "ggflowchart"]
 	path = ggflowchart
 	url = https://github.com/nrennie/ggflowchart
