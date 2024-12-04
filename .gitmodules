@@ -11,3 +11,6 @@
 [submodule "ggflowchart"]
 	path = ggflowchart
 	url = https://github.com/nrennie/ggflowchart
+[submodule "messy"]
+	path = messy
+	url = https://github.com/nrennie/messy
