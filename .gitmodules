@@ -8,6 +8,9 @@
 [submodule "RSSthemes"]
 	path = RSSthemes
 	url = https://github.com/nrennie/rssthemes
+[submodule "ggauto"]
+	path = ggauto
+	url = https://github.com/nrennie/ggauto
 [submodule "ggflowchart"]
 	path = ggflowchart
 	url = https://github.com/nrennie/ggflowchart
